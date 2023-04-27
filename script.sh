@@ -19,4 +19,4 @@ echo "Begin To Execute Python3 Script..."
 nohup python3 ./main.py -U $user -P $passwd -C $console > /dev/null &
 echo "Start Keepalive Workflow!Enjoy it!"
 sleep 3
-clear
+
